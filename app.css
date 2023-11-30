@@ -370,7 +370,6 @@ main{
 }
 .part2{
     display:none;
-    margin-left:-100px;
 }
 .spin{
     display:block;
